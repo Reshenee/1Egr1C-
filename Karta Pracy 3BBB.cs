@@ -1,7 +1,7 @@
 // Zadanie 1
 
-    // for(int i = 0; i <31; i++)
-    //   Console.Write(i,"Listopada");
+  /*for (int i = 1; i < 31; i++)
+    Console.WriteLine(i + " " + "Listopada");*/
 
 
 // Zadanie 2
